@@ -1,0 +1,4 @@
+[project]
+name = "temporal-focus-resolver"
+version = "0.4.2b2"
+requires-python = ">=3.10"

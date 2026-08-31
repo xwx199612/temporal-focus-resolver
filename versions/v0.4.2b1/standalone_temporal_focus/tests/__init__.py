@@ -1,0 +1,1 @@
+"""Standalone encoded-image tests."""

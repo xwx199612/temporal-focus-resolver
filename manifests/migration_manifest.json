@@ -1,0 +1,10 @@
+{
+  "b1_copy_manifest_sha256": "014542b6a1361814ab08004bc080553a269524b55006eeb5026b6b78c85d2b6a",
+  "b1_source_manifest_sha256": "2d56d520e95251f49e49b6ba3208f68a88f4ebb32640d727a47fff79fa5976ef",
+  "canonical_root": "/mnt/nvme0/projects/temporal_focus_resolver",
+  "copy_only": true,
+  "drive_url": "https://drive.google.com/drive/folders/1Mp2MbsCV8iWqFjllTzezCtWBb_ADnSgu",
+  "g6_manifest_sha256": "7e67fa63406892854f7c61e003ff49c666cc6bbeaf01f3457ca4bc3f3606c2e9",
+  "source_milestone": "/mnt/nvme0/releases/VLM_Online_DBiLD_runtime_1.2.0_b7e9189_20260806T081746Z/focus_live_omni_execution_integrity_v042b1",
+  "source_runtime": "/mnt/nvme0/releases/VLM_Online_DBiLD_runtime_1.2.0_b7e9189_20260806T081746Z"
+}
