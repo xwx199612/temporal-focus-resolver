@@ -1,0 +1,10 @@
+{
+  "checkpoint": "/mnt/nvme0/releases/VLM_Online_DBiLD_runtime_1.2.0_b7e9189_20260806T081746Z/.cache/omniparser/weights/icon_detect_v3/model.pt",
+  "checkpoint_loaded_once_per_session": true,
+  "checkpoint_sha256": "11c6cbb77f22569fab22d86c76407a83ec81ab89dbfe28279854822d6e3fb00c",
+  "commit_sha": "354021201345a96178360b28733573e27269f2de",
+  "config": "official_icon_detect_v3_conf025_imgsz640_iou070",
+  "detector": "YOLOv9-E icon_detect_v3",
+  "provider": "MICROSOFT_OMNIPARSER",
+  "repository_url": "https://github.com/microsoft/OmniParser"
+}

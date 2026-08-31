@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "omni_temporal_focus_frame_v2.schema.json",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "dataset_id",
+    "dataset_role",
+    "sequence_id",
+    "frame_index",
+    "bootstrap",
+    "encoded_image_sha256",
+    "decode_profile"
+  ]
+}
