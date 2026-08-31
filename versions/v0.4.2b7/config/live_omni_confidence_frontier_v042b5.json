@@ -1,0 +1,12 @@
+{
+  "version": "v0.4.2b5",
+  "profiles": [
+    {"profile": "production_reference", "confidence": 0.25, "imgsz": 640, "nms_iou": 0.70, "status": "FORMAL_PRODUCTION_REFERENCE"},
+    {"profile": "diagnostic_conf_020", "confidence": 0.20, "imgsz": 640, "nms_iou": 0.70, "status": "POST_HOC_DIAGNOSTIC_ONLY"},
+    {"profile": "diagnostic_conf_015", "confidence": 0.15, "imgsz": 640, "nms_iou": 0.70, "status": "POST_HOC_DIAGNOSTIC_ONLY"},
+    {"profile": "diagnostic_conf_010", "confidence": 0.10, "imgsz": 640, "nms_iou": 0.70, "status": "POST_HOC_DIAGNOSTIC_ONLY"}
+  ],
+  "production_config_locked": {"confidence": 0.25, "imgsz": 640, "nms_iou": 0.70},
+  "scope": "HISTORICAL_REGRESSION_ONLY",
+  "threshold_promotion": "CANDIDATE_THRESHOLD_PROMOTION_BLOCKED_PENDING_NEW_DEV_DATA"
+}

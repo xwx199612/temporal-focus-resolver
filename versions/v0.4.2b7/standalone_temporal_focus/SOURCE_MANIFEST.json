@@ -1,0 +1,28 @@
+{
+  "files": {
+    "FUNCTIONAL_CAPABILITIES.json": "7af19abeac52cd4020c89610cba4e9ca213b70773b5d50b9cd5bcb4205497caa",
+    "INPUT_CONTRACT.json": "a17310681209c1b252b424217b6fbdaeee8f34dd2d749fa7bd3b645e886516bb",
+    "README.md": "7abc4147e61895efc8596b7d99a1c055fc089c40418953ad51f0e63e7f93873a",
+    "RUN.md": "538c87e79633e5f3fd5d8f7d882d1e645297f55b99fcd39192dbc7ef14f2104e",
+    "VERSION.json": "333a1cb072bc9b030f141416600b158d76a61aaea2a96f6861add63fb5e4fd66",
+    "bin/run_temporal_focus.py": "e1b055445ab2a0944853ee814ecab5523e7be0b4521b257f90cefd0c99135f22",
+    "bin/run_temporal_focus_sequence.py": "70c4994691bf83c698737b75a437d02ae57512259dc67313184e224d76b1c937",
+    "config/frozen_temporal_focus_v041g6.json": "b56529add0a5c7a0419ec137eec3640f8c249a5cc6b6e98be7dca6197937ee07",
+    "examples/synthetic_omni_candidates.json": "6441cf4985f3f018f2160d1c4f8f4ae218c61c3ae41107bc1315f91aa5c96c72",
+    "requirements-temporal-focus.txt": "fdde51696d8ef04cd42aa6a7f0dfbc63418e092c365254e86e982014298e9ee3",
+    "schemas/omni_temporal_focus_candidates_v1.schema.json": "2421f2b1ac09d37c5a5ae5526225b2c1b27b54432476b11780f891f7df6e3c9f",
+    "src/vlm_distill/omni_candidate_adapter_v1.py": "e17397a97c0f6d19ada6175724ad18b3d80701cca2702cf00bc5c1201c8d92b5",
+    "src/vlm_distill/spatial_focus_scorer_v040.py": "903746e2018b20264f1d2a84a053a4dc64273408a6d25b387a0d63ab3a2439f5",
+    "src/vlm_distill/spatial_focus_scorer_v041b.py": "ec381f98559985246c79ac4c383dc03bbee5a434c756ddc47f520a843ef7f930",
+    "src/vlm_distill/spatial_focus_scorer_v041g.py": "e01b4c80fc53950a53b4c987a1494af801c1fee149143b114d04154cbaaeec62",
+    "src/vlm_distill/temporal_focus_features_v041g4.py": "0f734a25120f7cab66782371542f0ef1c0bba3988d5772f6e0ea83df0ea63b24",
+    "src/vlm_distill/temporal_focus_features_v041g6.py": "cf5194b64c98501596cb1e05da0b2b57797ee23ae164e36acd83cd81bbb86e24",
+    "src/vlm_distill/temporal_focus_image_input_v1.py": "54b3f634b737dcf7ead14dae67a1dd0a36adf03251283001dbfc69e12ce822ac",
+    "src/vlm_distill/temporal_focus_resolver_v041g4.py": "d7af9527e96197d763448c96bebb0f7897176c35f9b6ea72d07b85328d918a1c",
+    "src/vlm_distill/temporal_focus_resolver_v041g6.py": "a11443d63fc43ff862293a6d6e024f3e0fb5ee46fb2c15c8cac7e30b13b1f06a",
+    "tests/__init__.py": "9eab63bf4335a03816c53d4ecfd401cfdb1a98a5af1d38e503254ca6a0e53d3b",
+    "tests/test_encoded_dual_decode.py": "a17703db402240f009323e6b54bba9c254710c187139efa37944aa37f07621e2",
+    "tests/test_standalone_functional.py": "8d0866eb4db626dd3945f403d95f827f0361e29c1bdbc948f429fd54848853af"
+  },
+  "version": "v0.4.1g6"
+}

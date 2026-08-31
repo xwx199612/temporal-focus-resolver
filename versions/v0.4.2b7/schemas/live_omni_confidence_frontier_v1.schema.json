@@ -1,0 +1,1 @@
+{"$schema":"https://json-schema.org/draft/2020-12/schema","title":"LiveOmniConfidenceFrontierV1","type":"object","required":["profile","confidence","imgsz","nms_iou","status","metrics"],"properties":{"profile":{"type":"string"},"confidence":{"type":"number"},"imgsz":{"const":640},"nms_iou":{"const":0.7},"status":{"type":"string"},"metrics":{"type":"object"}}}

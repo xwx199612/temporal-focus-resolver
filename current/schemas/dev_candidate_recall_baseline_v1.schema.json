@@ -1,0 +1,1 @@
+{"$schema":"https://json-schema.org/draft/2020-12/schema","title":"v042b7 development candidate recall baseline","type":"object","required":["profile","confidence","imgsz","nms_iou","status"],"properties":{"profile":{"type":"string"},"confidence":{"type":"number","enum":[0.2,0.25]},"imgsz":{"const":640},"nms_iou":{"const":0.7},"status":{"type":"string"}}}
