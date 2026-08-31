@@ -1,0 +1,290 @@
+{
+  "payload": [
+    {
+      "path": "FUNCTIONAL_CAPABILITIES.json",
+      "sha256": "7c6688c383d4c754133c18b91b9d9568438f04edc93d1a47affb4d44ac93175c",
+      "size": 245
+    },
+    {
+      "path": "README.md",
+      "sha256": "8a56bb084adf5f65d6a89de20c22c0cc9278124eaa254f035fffd3056f95528f",
+      "size": 389
+    },
+    {
+      "path": "RUN.md",
+      "sha256": "9f3d7f686a6d01962772f9acc35d7dec03254c8a9abf04e15660dfd6f0c07562",
+      "size": 82
+    },
+    {
+      "path": "VERSION.json",
+      "sha256": "f09c82bfcbbf8a3387a375315a5d08fc61a4b5f4b509c684febabd4ce816b295",
+      "size": 219
+    },
+    {
+      "path": "audit/frozen_g6.json",
+      "sha256": "6350d7605acafbb68164225b42c9ea4071438166cdeae9a49e96bece6d98984f",
+      "size": 183
+    },
+    {
+      "path": "audit/gt_load_order.json",
+      "sha256": "44a41d69a67244588666159fdd65ddf2a1a1cc9c731da537277e5e99af548664",
+      "size": 77
+    },
+    {
+      "path": "audit/new_data_status.json",
+      "sha256": "a4c50390bfc0c6b8ab131cf9e3f3336577486d33aff8a78f3d53e70c04c66310",
+      "size": 141
+    },
+    {
+      "path": "audit/omni_stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "audit/omni_stdout.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "audit/predict_stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "audit/predict_stdout.txt",
+      "sha256": "124799f5039d595c39ec07673c5c78599bb7190b34df9d1037c8ad8aa620c9b2",
+      "size": 12
+    },
+    {
+      "path": "audit/provider_identity.json",
+      "sha256": "61ecab7d46dcd9b044a35d0bada5f3f3911303d5db6cf523dc53b5f2126d7721",
+      "size": 550
+    },
+    {
+      "path": "audit/raw_reuse_guard.json",
+      "sha256": "a26593322fb812386e4f78edee6941b5da37d82b5e8ebbf1ad6724595b5ef84d",
+      "size": 94
+    },
+    {
+      "path": "audit/seal_stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "audit/seal_stdout.txt",
+      "sha256": "1141941c4172b9ce8d1a5400b98d357adf46e022215bbd2b370fbf91ac19eb0a",
+      "size": 337
+    },
+    {
+      "path": "config/frozen_temporal_focus_v041g6.json",
+      "sha256": "b56529add0a5c7a0419ec137eec3640f8c249a5cc6b6e98be7dca6197937ee07",
+      "size": 175
+    },
+    {
+      "path": "decision.json",
+      "sha256": "2f715ff76554bdc64a5c56e26b4b25d486274d9d6e4d0e55590f7ad2a2293b61",
+      "size": 664
+    },
+    {
+      "path": "omni/execution_summary.json",
+      "sha256": "b7825149d1be5073af1b29d3078bb1302b31e09aac67b65aa11ba8cbef05a104",
+      "size": 223
+    },
+    {
+      "path": "release_manifest.py",
+      "sha256": "97099dfd14972dd3e5cdf7a4034620664f79eb5461f983fb12ad5a2495f90fbc",
+      "size": 3400
+    },
+    {
+      "path": "reports/RESULTS.md",
+      "sha256": "65b959581208f645cd90d4f7cfb676c9d6808695ee832c094284cf8124cf5412",
+      "size": 366
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "c842021f7c524ad46186c96f1ba17f099d462849f67260c853a734df3d052a95",
+      "size": 42
+    },
+    {
+      "path": "run_v042b1.py",
+      "sha256": "481b516806601000fb8701eea519184d29594d75f02467472bd801ffaa7ba382",
+      "size": 6245
+    },
+    {
+      "path": "run_v042b2.py",
+      "sha256": "481b516806601000fb8701eea519184d29594d75f02467472bd801ffaa7ba382",
+      "size": 6245
+    },
+    {
+      "path": "run_v042b3.py",
+      "sha256": "acfd30906c6e91e7164841c06e75298f91e50330039a69dd893744ce7b0cf2ad",
+      "size": 6246
+    },
+    {
+      "path": "schemas/omni_temporal_focus_dataset_v2.schema.json",
+      "sha256": "ea37989bae814a7d801fc3b6e5de0a7f3387524a6696f957a376d05ab2f2ecf9",
+      "size": 173
+    },
+    {
+      "path": "schemas/omni_temporal_focus_frame_v2.schema.json",
+      "sha256": "d64118d3ce25f8f2ca218e796a4af24e5ecb2084d0ea1bf9c64630f42462ca65",
+      "size": 334
+    },
+    {
+      "path": "schemas/omni_temporal_focus_gt_v2.schema.json",
+      "sha256": "07086c46464ca8581ed10eb1e60a882046a4e742c1c2212406bb13d662053596",
+      "size": 168
+    },
+    {
+      "path": "schemas/omni_temporal_focus_prediction_seal_v2.schema.json",
+      "sha256": "f9459964cdb1a1f419b7b876ee069e3b17ec05f5bc307f947f4376e3f22b9d46",
+      "size": 181
+    },
+    {
+      "path": "standalone_capture_kit/README.md",
+      "sha256": "62cd058daf7cb8d545daf12f2feb93da229186b9830d3fd46ac5230d47285d31",
+      "size": 164
+    },
+    {
+      "path": "standalone_capture_kit/capture_kit.py",
+      "sha256": "683cf6bbc8b9e8ade8677a75748a6260a128b7dffaa790a5c1d12b77773a71c9",
+      "size": 4916
+    },
+    {
+      "path": "standalone_capture_kit/requirements.txt",
+      "sha256": "cbdf95a220203b2434e93b8a6b7acbfac32a94a393dd327e084db8805fd3eb76",
+      "size": 30
+    },
+    {
+      "path": "standalone_omni_bridge/official_provider.py",
+      "sha256": "8b6fbe8a3ab402b9fff2a3f869d34250d33463a3d7b5c2388bd96e280315b204",
+      "size": 3735
+    },
+    {
+      "path": "standalone_temporal_focus/FUNCTIONAL_CAPABILITIES.json",
+      "sha256": "7af19abeac52cd4020c89610cba4e9ca213b70773b5d50b9cd5bcb4205497caa",
+      "size": 168
+    },
+    {
+      "path": "standalone_temporal_focus/INPUT_CONTRACT.json",
+      "sha256": "a17310681209c1b252b424217b6fbdaeee8f34dd2d749fa7bd3b645e886516bb",
+      "size": 123
+    },
+    {
+      "path": "standalone_temporal_focus/README.md",
+      "sha256": "7abc4147e61895efc8596b7d99a1c055fc089c40418953ad51f0e63e7f93873a",
+      "size": 98
+    },
+    {
+      "path": "standalone_temporal_focus/RUN.md",
+      "sha256": "538c87e79633e5f3fd5d8f7d882d1e645297f55b99fcd39192dbc7ef14f2104e",
+      "size": 53
+    },
+    {
+      "path": "standalone_temporal_focus/SOURCE_MANIFEST.json",
+      "sha256": "7e67fa63406892854f7c61e003ff49c666cc6bbeaf01f3457ca4bc3f3606c2e9",
+      "size": 2596
+    },
+    {
+      "path": "standalone_temporal_focus/VERSION.json",
+      "sha256": "333a1cb072bc9b030f141416600b158d76a61aaea2a96f6861add63fb5e4fd66",
+      "size": 99
+    },
+    {
+      "path": "standalone_temporal_focus/bin/run_temporal_focus.py",
+      "sha256": "e1b055445ab2a0944853ee814ecab5523e7be0b4521b257f90cefd0c99135f22",
+      "size": 343
+    },
+    {
+      "path": "standalone_temporal_focus/bin/run_temporal_focus_sequence.py",
+      "sha256": "70c4994691bf83c698737b75a437d02ae57512259dc67313184e224d76b1c937",
+      "size": 56
+    },
+    {
+      "path": "standalone_temporal_focus/config/frozen_temporal_focus_v041g6.json",
+      "sha256": "b56529add0a5c7a0419ec137eec3640f8c249a5cc6b6e98be7dca6197937ee07",
+      "size": 175
+    },
+    {
+      "path": "standalone_temporal_focus/examples/synthetic_omni_candidates.json",
+      "sha256": "6441cf4985f3f018f2160d1c4f8f4ae218c61c3ae41107bc1315f91aa5c96c72",
+      "size": 82
+    },
+    {
+      "path": "standalone_temporal_focus/requirements-temporal-focus.txt",
+      "sha256": "fdde51696d8ef04cd42aa6a7f0dfbc63418e092c365254e86e982014298e9ee3",
+      "size": 29
+    },
+    {
+      "path": "standalone_temporal_focus/schemas/omni_temporal_focus_candidates_v1.schema.json",
+      "sha256": "2421f2b1ac09d37c5a5ae5526225b2c1b27b54432476b11780f891f7df6e3c9f",
+      "size": 735
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/omni_candidate_adapter_v1.py",
+      "sha256": "e17397a97c0f6d19ada6175724ad18b3d80701cca2702cf00bc5c1201c8d92b5",
+      "size": 2454
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/spatial_focus_scorer_v040.py",
+      "sha256": "903746e2018b20264f1d2a84a053a4dc64273408a6d25b387a0d63ab3a2439f5",
+      "size": 7820
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/spatial_focus_scorer_v041b.py",
+      "sha256": "ec381f98559985246c79ac4c383dc03bbee5a434c756ddc47f520a843ef7f930",
+      "size": 1730
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/spatial_focus_scorer_v041g.py",
+      "sha256": "e01b4c80fc53950a53b4c987a1494af801c1fee149143b114d04154cbaaeec62",
+      "size": 3603
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/temporal_focus_features_v041g4.py",
+      "sha256": "0f734a25120f7cab66782371542f0ef1c0bba3988d5772f6e0ea83df0ea63b24",
+      "size": 8797
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/temporal_focus_features_v041g6.py",
+      "sha256": "cf5194b64c98501596cb1e05da0b2b57797ee23ae164e36acd83cd81bbb86e24",
+      "size": 2442
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/temporal_focus_image_input_v1.py",
+      "sha256": "54b3f634b737dcf7ead14dae67a1dd0a36adf03251283001dbfc69e12ce822ac",
+      "size": 1168
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/temporal_focus_resolver_v041g4.py",
+      "sha256": "d7af9527e96197d763448c96bebb0f7897176c35f9b6ea72d07b85328d918a1c",
+      "size": 3921
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/temporal_focus_resolver_v041g6.py",
+      "sha256": "a11443d63fc43ff862293a6d6e024f3e0fb5ee46fb2c15c8cac7e30b13b1f06a",
+      "size": 3957
+    },
+    {
+      "path": "standalone_temporal_focus/tests/__init__.py",
+      "sha256": "9eab63bf4335a03816c53d4ecfd401cfdb1a98a5af1d38e503254ca6a0e53d3b",
+      "size": 38
+    },
+    {
+      "path": "standalone_temporal_focus/tests/test_encoded_dual_decode.py",
+      "sha256": "a17703db402240f009323e6b54bba9c254710c187139efa37944aa37f07621e2",
+      "size": 387
+    },
+    {
+      "path": "standalone_temporal_focus/tests/test_standalone_functional.py",
+      "sha256": "8d0866eb4db626dd3945f403d95f827f0361e29c1bdbc948f429fd54848853af",
+      "size": 724
+    },
+    {
+      "path": "tests/test_release_manifest.py",
+      "sha256": "aa1a8d2d4cf72f10be2ef185699dd1509780ffa8185043849530c54737c8e5ac",
+      "size": 1492
+    }
+  ],
+  "schema": "CONTENT_MANIFEST_V1"
+}

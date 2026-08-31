@@ -1,0 +1,8 @@
+{
+  "inputs": [
+    "previous_rgb",
+    "current_rgb",
+    "anonymous Omni candidates"
+  ],
+  "filesystem_access": false
+}

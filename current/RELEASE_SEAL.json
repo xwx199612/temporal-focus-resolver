@@ -1,0 +1,15 @@
+{
+  "content_manifest_sha256": "27b50b8cdb9c547d459a04494230a25903f19988d2b0873ab7d03871fc7236e7",
+  "creation_timestamp": "2026-08-31T08:00:00Z",
+  "frozen_g6_manifest_sha256": "7e67fa63406892854f7c61e003ff49c666cc6bbeaf01f3457ca4bc3f3606c2e9",
+  "functional_capabilities": {
+    "actual_live_omni_cli": true,
+    "encoded_image_to_live_omni_to_temporal_focus": true,
+    "fixture_fallback_formal": false,
+    "production_scorer_changed": false,
+    "provider_loaded_once": true,
+    "release_manifest_self_reference_free": true
+  },
+  "live_execution_decision": "V042B3_ENCODED_IMAGE_TO_OMNI_TO_FOCUS_VERIFIED",
+  "version": "v0.4.2b3"
+}
