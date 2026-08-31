@@ -1,0 +1,7 @@
+{
+  "version": "v0.4.1g6",
+  "decode_profile": "OPENCV_ENCODED_DUAL_DECODE_V1",
+  "polarity_threshold": 0.8,
+  "compactness_threshold": 0.7,
+  "signed_evidence_floor": 32.0
+}

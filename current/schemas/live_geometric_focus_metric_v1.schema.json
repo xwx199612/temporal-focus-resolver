@@ -1,0 +1,1 @@
+{"$schema":"https://json-schema.org/draft/2020-12/schema","title":"LIVE_GEOMETRIC_FOCUS_METRIC_V1","type":"object","required":["metric_id","iou_threshold","denominator","correct"],"properties":{"metric_id":{"const":"LIVE_GEOMETRIC_FOCUS_METRIC_V1"},"iou_threshold":{"const":0.75},"denominator":{"type":"integer"},"correct":{"type":"integer"}}}
