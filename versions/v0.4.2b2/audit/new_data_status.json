@@ -1,0 +1,6 @@
+{
+  "historical_regression_frames": 3,
+  "historical_role": "HISTORICAL_REGRESSION_ONLY",
+  "new_dev_frames": 0,
+  "new_holdout_frames": 0
+}

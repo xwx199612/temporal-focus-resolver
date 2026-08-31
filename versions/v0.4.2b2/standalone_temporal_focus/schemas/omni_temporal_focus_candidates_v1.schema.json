@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "omni-temporal-focus-candidates-v1",
+  "type": "object",
+  "required": ["frame_id", "width", "height", "candidates"],
+  "properties": {
+    "frame_id": {"type": "string"},
+    "width": {"type": "integer", "minimum": 1},
+    "height": {"type": "integer", "minimum": 1},
+    "candidates": {"type": "array", "items": {"$ref": "#/$defs/candidate"}}
+  },
+  "$defs": {"candidate": {"type": "object", "required": ["candidate_id", "bbox"], "properties": {
+    "candidate_id": {"type": "string"},
+    "bbox": {"type": "array", "minItems": 4, "maxItems": 4, "items": {"type": "number"}},
+    "source": {"type": "string"}, "confidence": {"type": ["number", "null"]}
+  }}}
+}
