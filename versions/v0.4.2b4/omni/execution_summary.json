@@ -1,0 +1,16 @@
+{
+  "actual_version_local_provider": true,
+  "candidate_counts": [
+    25,
+    25,
+    25
+  ],
+  "frames": 3,
+  "provider_invocation_count": 3,
+  "raw_preexisting": false,
+  "statuses": [
+    "OK",
+    "OK",
+    "OK"
+  ]
+}
