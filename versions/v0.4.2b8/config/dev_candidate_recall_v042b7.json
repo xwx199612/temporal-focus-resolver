@@ -1,0 +1,10 @@
+{
+  "version": "v0.4.2b7",
+  "production_default": "production_reference_025",
+  "profiles": {
+    "production_reference_025": {"confidence": 0.25, "imgsz": 640, "nms_iou": 0.70, "status": "FORMAL_PRODUCTION_REFERENCE"},
+    "dev_candidate_recall_020": {"confidence": 0.20, "imgsz": 640, "nms_iou": 0.70, "status": "DEVELOPMENT_CANDIDATE_RECALL_PROFILE"}
+  },
+  "explicit_profile_required": true,
+  "historical_status": ["HISTORICAL_REGRESSION_ONLY", "DEVELOPMENT_IN_SAMPLE", "POST_HOC_CANDIDATE_POLICY_REFINEMENT", "NOT_HOLDOUT", "NOT_GENERALIZATION_EVIDENCE", "PRODUCTION_INTEGRATION_DISABLED"]
+}

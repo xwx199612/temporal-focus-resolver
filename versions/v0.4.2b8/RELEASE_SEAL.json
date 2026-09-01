@@ -1,0 +1,25 @@
+{
+  "content_manifest_sha256": "571db132656f1ac939d03a1dd29ef3369c959b81a11f6197bd7586bc0e447163",
+  "creation_timestamp": "2026-08-31T10:20:00Z",
+  "development_candidate_recall_confidence": 0.2,
+  "frozen_g6_manifest_sha256": "7e67fa63406892854f7c61e003ff49c666cc6bbeaf01f3457ca4bc3f3606c2e9",
+  "functional_capabilities": {
+    "actual_live_omni_cli": true,
+    "canonical_semantic_projection": true,
+    "confidence_frontier_characterization": true,
+    "development_candidate_recall_profile_020": true,
+    "encoded_image_to_live_omni_to_temporal_focus": true,
+    "explicit_profile_required": true,
+    "fixture_fallback_formal": false,
+    "formal_production_confidence_locked": 0.25,
+    "historical_lineage_provenance_separation": true,
+    "live_geometric_focus_metric_v1": true,
+    "pre_nms_diagnostic_source_trace": true,
+    "production_scorer_changed": false,
+    "provider_loaded_once": true,
+    "release_manifest_self_reference_free": true
+  },
+  "live_execution_decision": "V042B8_DEV020_GLOBAL_RESIDUAL_RANK_RECOVERY",
+  "production_default_confidence": 0.25,
+  "version": "v0.4.2b8"
+}

@@ -1,0 +1,14 @@
+{
+  "version": "v0.4.2b8",
+  "baseline_profile": {"name": "DEV_CANDIDATE_RECALL_PROFILE_020", "confidence": 0.20, "imgsz": 640, "nms_iou": 0.70},
+  "production_reference": {"confidence": 0.25, "imgsz": 640, "nms_iou": 0.70},
+  "formula_candidates": {
+    "baseline_frozen_h": {"description": "Unchanged b7 resolver output; no rank modification."},
+    "robust_positive_onset": {"score": "H_FINAL + 0.10*clamp(positive_onset_support) - 0.05*clamp(offset_support)", "normalization": "unit interval clamp", "gate": "existing frozen gates"},
+    "contrast_coherence": {"score": "H_FINAL + 0.05*clamp(interior_ring_contrast) + 0.05*clamp(edge_ring_continuity)", "normalization": "unit interval clamp", "gate": "existing frozen gates"}
+  },
+  "global_only": true,
+  "gt_features_used": false,
+  "production_scorer_changed": false,
+  "status": ["HISTORICAL_REGRESSION_ONLY", "DEVELOPMENT_IN_SAMPLE", "POST_HOC_REFINEMENT", "NOT_HOLDOUT", "NOT_GENERALIZATION_EVIDENCE", "PRODUCTION_INTEGRATION_DISABLED"]
+}

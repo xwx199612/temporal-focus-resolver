@@ -1,0 +1,505 @@
+{
+  "payload": [
+    {
+      "path": "FUNCTIONAL_CAPABILITIES.json",
+      "sha256": "873fefc524c30501aeed8a9659ed4baaa2a1870d670f1bcebe5c94be46fa17b6",
+      "size": 607
+    },
+    {
+      "path": "README.md",
+      "sha256": "931eb41f2a948a867279f48df4e690bc3a772dcd2ed05f562d427881cda94b3b",
+      "size": 1213
+    },
+    {
+      "path": "RUN.md",
+      "sha256": "9f3d7f686a6d01962772f9acc35d7dec03254c8a9abf04e15660dfd6f0c07562",
+      "size": 82
+    },
+    {
+      "path": "VERSION.json",
+      "sha256": "b7c10df3a2ea26228ea8f07c599787c0e611e25c8ebfb842ac2b6a750e7f8d82",
+      "size": 426
+    },
+    {
+      "path": "app/canonical_semantic_projection_v042b6.py",
+      "sha256": "59eef1751f3618db8150211b4b10f29a33cc1582d910dcaba4dfb89a0de6dc36",
+      "size": 6285
+    },
+    {
+      "path": "app/dev020_residual_rank_refinement_v042b8.py",
+      "sha256": "afb2dbff4ca301fa155b4224c168a1d441f4a2e75e1361a210a41a77164b424f",
+      "size": 803
+    },
+    {
+      "path": "audit/frozen_g6.json",
+      "sha256": "6350d7605acafbb68164225b42c9ea4071438166cdeae9a49e96bece6d98984f",
+      "size": 183
+    },
+    {
+      "path": "audit/gt_load_order.json",
+      "sha256": "44a41d69a67244588666159fdd65ddf2a1a1cc9c731da537277e5e99af548664",
+      "size": 77
+    },
+    {
+      "path": "audit/new_data_status.json",
+      "sha256": "a4c50390bfc0c6b8ab131cf9e3f3336577486d33aff8a78f3d53e70c04c66310",
+      "size": 141
+    },
+    {
+      "path": "audit/omni_stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "audit/omni_stdout.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "audit/predict_stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "audit/predict_stdout.txt",
+      "sha256": "124799f5039d595c39ec07673c5c78599bb7190b34df9d1037c8ad8aa620c9b2",
+      "size": 12
+    },
+    {
+      "path": "audit/provider_identity.json",
+      "sha256": "61ecab7d46dcd9b044a35d0bada5f3f3911303d5db6cf523dc53b5f2126d7721",
+      "size": 550
+    },
+    {
+      "path": "audit/raw_reuse_guard.json",
+      "sha256": "a26593322fb812386e4f78edee6941b5da37d82b5e8ebbf1ad6724595b5ef84d",
+      "size": 94
+    },
+    {
+      "path": "audit/seal_stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "path": "audit/seal_stdout.txt",
+      "sha256": "1141941c4172b9ce8d1a5400b98d357adf46e022215bbd2b370fbf91ac19eb0a",
+      "size": 337
+    },
+    {
+      "path": "audit_live_candidate_lineage_v042b4.py",
+      "sha256": "f9f53579842301898013f001c5229b19815024ea80e12bbb1c2c2b9bf8db554b",
+      "size": 959
+    },
+    {
+      "path": "b4_audit_lib.py",
+      "sha256": "816fb59473a6bad7d5da0668ced51d3db04514d9dadcff3394b068ba6b42f317",
+      "size": 4831
+    },
+    {
+      "path": "characterize_h_ranking_failures_readonly_v042b4.py",
+      "sha256": "4e7d209a05bf34b71bca20321db7bcf190c6b3fff053a66246f3305eba8f9238",
+      "size": 1289
+    },
+    {
+      "path": "config/dev_candidate_recall_v042b7.json",
+      "sha256": "18c2c34c58c04fe7f46fe78231fe311466bd5e8977bfe9ec41c00bf2b5bb3771",
+      "size": 599
+    },
+    {
+      "path": "config/frozen_temporal_focus_v041g6.json",
+      "sha256": "b56529add0a5c7a0419ec137eec3640f8c249a5cc6b6e98be7dca6197937ee07",
+      "size": 175
+    },
+    {
+      "path": "config/live_geometric_focus_metric_v042b6.json",
+      "sha256": "18f5c643a9b7e0808d7dbbe34261efd49ed32c802760ecbf00686390774dd1ff",
+      "size": 381
+    },
+    {
+      "path": "config/live_omni_confidence_frontier_v042b5.json",
+      "sha256": "4b55ac9be888bceb6fe683a1c31ef3a47c016a0cebfbe462707c5334148592c2",
+      "size": 779
+    },
+    {
+      "path": "config/residual_rank_refinement_v042b8.json",
+      "sha256": "4ee79cb7878cad63050d54ebe5704b17d12f7fcd42201a5d8716e856343a4340",
+      "size": 999
+    },
+    {
+      "path": "decision.json",
+      "sha256": "5b90424269f9e523631821d662f25d611ef048e00d133b5b873227ffca96040a",
+      "size": 736
+    },
+    {
+      "path": "diagnose_omni_pre_nms_boundary_v042b4.py",
+      "sha256": "6ae504a39ce6e431c025c31abf1a66518c61cf5413ef626faa597ca50ec628a0",
+      "size": 1398
+    },
+    {
+      "path": "live_omni_pre_nms_diagnostic_provider_v042b4.py",
+      "sha256": "48e5fc50d4be75bef237ae858fd8d3e92898c2ec206768ca7c9f1c96ea6e2979",
+      "size": 1604
+    },
+    {
+      "path": "omni/execution_summary.json",
+      "sha256": "b7825149d1be5073af1b29d3078bb1302b31e09aac67b65aa11ba8cbef05a104",
+      "size": 223
+    },
+    {
+      "path": "package_temporal_focus_version.py",
+      "sha256": "cdffd7ee14d22147ca006b54b689b56159c7b4229e7779ad6819e0492fbe0944",
+      "size": 3400
+    },
+    {
+      "path": "release_manifest.py",
+      "sha256": "914f29902dc03ba14f9e1b29939f9c89ac93c03f505e50ea9493cedf566e2985",
+      "size": 3638
+    },
+    {
+      "path": "reports/RESULTS.md",
+      "sha256": "cf2bf061ff92f8ae4321384e5f6e58fe446e1addb12ba8f6f9ef0248f4670cea",
+      "size": 406
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "c842021f7c524ad46186c96f1ba17f099d462849f67260c853a734df3d052a95",
+      "size": 42
+    },
+    {
+      "path": "run_live_omni_temporal_focus_v042b4.py",
+      "sha256": "08f7599bbf27a701d7ec6b8661dc5f8d1a9095d07d84c7763bd447da10429369",
+      "size": 160
+    },
+    {
+      "path": "run_v042b1.py",
+      "sha256": "481b516806601000fb8701eea519184d29594d75f02467472bd801ffaa7ba382",
+      "size": 6245
+    },
+    {
+      "path": "run_v042b2.py",
+      "sha256": "481b516806601000fb8701eea519184d29594d75f02467472bd801ffaa7ba382",
+      "size": 6245
+    },
+    {
+      "path": "run_v042b3.py",
+      "sha256": "acfd30906c6e91e7164841c06e75298f91e50330039a69dd893744ce7b0cf2ad",
+      "size": 6246
+    },
+    {
+      "path": "run_v042b4.py",
+      "sha256": "77f46a0d76246d7341e19d0a501c4776a4f89c751af0020734a13c7bde7745d2",
+      "size": 6246
+    },
+    {
+      "path": "schemas/canonical_semantic_projection_v1.schema.json",
+      "sha256": "aabe9e7c84fd03bef254c04fd5c4253f1fde3cc3571bd7c7b050c4874d1b9525",
+      "size": 386
+    },
+    {
+      "path": "schemas/dev_candidate_recall_baseline_v1.schema.json",
+      "sha256": "4a28c9baaf1102c90ec56d2f546c116e33f870c61f9d114858acf64f2ab86897",
+      "size": 358
+    },
+    {
+      "path": "schemas/live_geometric_focus_metric_v1.schema.json",
+      "sha256": "7f0109f25fe409693be203765853306e88afce51997407d3fba6beb2b0ffd2cb",
+      "size": 344
+    },
+    {
+      "path": "schemas/live_omni_confidence_frontier_v1.schema.json",
+      "sha256": "f715be6bd59291943e90553ea70b90837d17de8feb815228852ca0fea4b59dc9",
+      "size": 362
+    },
+    {
+      "path": "schemas/omni_temporal_focus_dataset_v2.schema.json",
+      "sha256": "ea37989bae814a7d801fc3b6e5de0a7f3387524a6696f957a376d05ab2f2ecf9",
+      "size": 173
+    },
+    {
+      "path": "schemas/omni_temporal_focus_frame_v2.schema.json",
+      "sha256": "d64118d3ce25f8f2ca218e796a4af24e5ecb2084d0ea1bf9c64630f42462ca65",
+      "size": 334
+    },
+    {
+      "path": "schemas/omni_temporal_focus_gt_v2.schema.json",
+      "sha256": "07086c46464ca8581ed10eb1e60a882046a4e742c1c2212406bb13d662053596",
+      "size": 168
+    },
+    {
+      "path": "schemas/omni_temporal_focus_prediction_seal_v2.schema.json",
+      "sha256": "f9459964cdb1a1f419b7b876ee069e3b17ec05f5bc307f947f4376e3f22b9d46",
+      "size": 181
+    },
+    {
+      "path": "schemas/residual_rank_refinement_v1.schema.json",
+      "sha256": "6d8d1343c364534090c90c8c845562e5b50a81fe9529324d68ffe802353c66b4",
+      "size": 225
+    },
+    {
+      "path": "scripts/README.md",
+      "sha256": "fea10f5e2ad800a5171f93cd54815cef3cb9d27de45c3bec825d2ee866ec079a",
+      "size": 226
+    },
+    {
+      "path": "scripts/audit_semantic_replay_integrity_v042b6.py",
+      "sha256": "37ae28bb1cf7059efd2e3c2f4bf966f3df972e06aa6ac9b106d210fdb68ae125",
+      "size": 1489
+    },
+    {
+      "path": "scripts/evaluate_dev020_residual_rank_recovery_v042b8.py",
+      "sha256": "8b1691c8b4d64f2838f9d1fa1a1afa91233fa8a3720824ea55eb2c67cd22cf47",
+      "size": 3218
+    },
+    {
+      "path": "scripts/evaluate_dev_candidate_recall_v042b7.py",
+      "sha256": "b180f1a7e04e77de5bc2c37567fb7706ec5d81145754ca2ae1e7c62efea63dd3",
+      "size": 4882
+    },
+    {
+      "path": "scripts/evaluate_live_geometric_focus_metric_v042b6.py",
+      "sha256": "648eae421087cda626ccb258e64f39b390a8c70124b819a9aca539c59ef6b438",
+      "size": 3269
+    },
+    {
+      "path": "scripts/evaluate_live_omni_confidence_frontier_v042b5.py",
+      "sha256": "b179d3f2346bc268344c7e58ed2869f79365d2300e76b82d65d017165dbd43b3",
+      "size": 6996
+    },
+    {
+      "path": "scripts/package_temporal_focus_version.py",
+      "sha256": "e4ca56806be0a8268eb878148c61e8503cc1a75ea35c8b072f0a220251e9d7dd",
+      "size": 193
+    },
+    {
+      "path": "scripts/run_dev020_residual_rank_recovery_v042b8.py",
+      "sha256": "d15d118ba5d8d1dbd7feac0c14f70c4ca9cad1f48525d57c2f3c1b88ec51ff62",
+      "size": 3595
+    },
+    {
+      "path": "scripts/run_live_omni_candidate_recall_v042b7.py",
+      "sha256": "e0e95beac69e1ee8732a5c5b0b570111dde7fb1021dcb9b6a104f7d00e9ded9f",
+      "size": 1901
+    },
+    {
+      "path": "scripts/run_live_omni_confidence_frontier_v042b5.py",
+      "sha256": "74935b6044c3cc957b92ae303eb716e423fb8652670fcd62bad8b409f0444797",
+      "size": 8503
+    },
+    {
+      "path": "scripts/run_live_omni_semantic_replay_v042b6.py",
+      "sha256": "6371f0e2d76d0361b4ef4f41e85b94920750b057929993fb39752e99d20202a7",
+      "size": 1108
+    },
+    {
+      "path": "self_test.py",
+      "sha256": "7fb4e16c96a71b576a049524c36e2e3bb403f8cdc6b545510d694f0f7f6f6b2b",
+      "size": 518
+    },
+    {
+      "path": "standalone_capture_kit/README.md",
+      "sha256": "62cd058daf7cb8d545daf12f2feb93da229186b9830d3fd46ac5230d47285d31",
+      "size": 164
+    },
+    {
+      "path": "standalone_capture_kit/capture_kit.py",
+      "sha256": "683cf6bbc8b9e8ade8677a75748a6260a128b7dffaa790a5c1d12b77773a71c9",
+      "size": 4916
+    },
+    {
+      "path": "standalone_capture_kit/requirements.txt",
+      "sha256": "cbdf95a220203b2434e93b8a6b7acbfac32a94a393dd327e084db8805fd3eb76",
+      "size": 30
+    },
+    {
+      "path": "standalone_omni_bridge/official_provider.py",
+      "sha256": "8b6fbe8a3ab402b9fff2a3f869d34250d33463a3d7b5c2388bd96e280315b204",
+      "size": 3735
+    },
+    {
+      "path": "standalone_temporal_focus/FUNCTIONAL_CAPABILITIES.json",
+      "sha256": "7af19abeac52cd4020c89610cba4e9ca213b70773b5d50b9cd5bcb4205497caa",
+      "size": 168
+    },
+    {
+      "path": "standalone_temporal_focus/INPUT_CONTRACT.json",
+      "sha256": "a17310681209c1b252b424217b6fbdaeee8f34dd2d749fa7bd3b645e886516bb",
+      "size": 123
+    },
+    {
+      "path": "standalone_temporal_focus/README.md",
+      "sha256": "7abc4147e61895efc8596b7d99a1c055fc089c40418953ad51f0e63e7f93873a",
+      "size": 98
+    },
+    {
+      "path": "standalone_temporal_focus/RUN.md",
+      "sha256": "538c87e79633e5f3fd5d8f7d882d1e645297f55b99fcd39192dbc7ef14f2104e",
+      "size": 53
+    },
+    {
+      "path": "standalone_temporal_focus/SOURCE_MANIFEST.json",
+      "sha256": "7e67fa63406892854f7c61e003ff49c666cc6bbeaf01f3457ca4bc3f3606c2e9",
+      "size": 2596
+    },
+    {
+      "path": "standalone_temporal_focus/VERSION.json",
+      "sha256": "333a1cb072bc9b030f141416600b158d76a61aaea2a96f6861add63fb5e4fd66",
+      "size": 99
+    },
+    {
+      "path": "standalone_temporal_focus/bin/run_temporal_focus.py",
+      "sha256": "e1b055445ab2a0944853ee814ecab5523e7be0b4521b257f90cefd0c99135f22",
+      "size": 343
+    },
+    {
+      "path": "standalone_temporal_focus/bin/run_temporal_focus_sequence.py",
+      "sha256": "70c4994691bf83c698737b75a437d02ae57512259dc67313184e224d76b1c937",
+      "size": 56
+    },
+    {
+      "path": "standalone_temporal_focus/config/frozen_temporal_focus_v041g6.json",
+      "sha256": "b56529add0a5c7a0419ec137eec3640f8c249a5cc6b6e98be7dca6197937ee07",
+      "size": 175
+    },
+    {
+      "path": "standalone_temporal_focus/examples/synthetic_omni_candidates.json",
+      "sha256": "6441cf4985f3f018f2160d1c4f8f4ae218c61c3ae41107bc1315f91aa5c96c72",
+      "size": 82
+    },
+    {
+      "path": "standalone_temporal_focus/requirements-temporal-focus.txt",
+      "sha256": "fdde51696d8ef04cd42aa6a7f0dfbc63418e092c365254e86e982014298e9ee3",
+      "size": 29
+    },
+    {
+      "path": "standalone_temporal_focus/schemas/omni_temporal_focus_candidates_v1.schema.json",
+      "sha256": "2421f2b1ac09d37c5a5ae5526225b2c1b27b54432476b11780f891f7df6e3c9f",
+      "size": 735
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/omni_candidate_adapter_v1.py",
+      "sha256": "e17397a97c0f6d19ada6175724ad18b3d80701cca2702cf00bc5c1201c8d92b5",
+      "size": 2454
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/spatial_focus_scorer_v040.py",
+      "sha256": "903746e2018b20264f1d2a84a053a4dc64273408a6d25b387a0d63ab3a2439f5",
+      "size": 7820
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/spatial_focus_scorer_v041b.py",
+      "sha256": "ec381f98559985246c79ac4c383dc03bbee5a434c756ddc47f520a843ef7f930",
+      "size": 1730
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/spatial_focus_scorer_v041g.py",
+      "sha256": "e01b4c80fc53950a53b4c987a1494af801c1fee149143b114d04154cbaaeec62",
+      "size": 3603
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/temporal_focus_features_v041g4.py",
+      "sha256": "0f734a25120f7cab66782371542f0ef1c0bba3988d5772f6e0ea83df0ea63b24",
+      "size": 8797
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/temporal_focus_features_v041g6.py",
+      "sha256": "cf5194b64c98501596cb1e05da0b2b57797ee23ae164e36acd83cd81bbb86e24",
+      "size": 2442
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/temporal_focus_image_input_v1.py",
+      "sha256": "54b3f634b737dcf7ead14dae67a1dd0a36adf03251283001dbfc69e12ce822ac",
+      "size": 1168
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/temporal_focus_resolver_v041g4.py",
+      "sha256": "d7af9527e96197d763448c96bebb0f7897176c35f9b6ea72d07b85328d918a1c",
+      "size": 3921
+    },
+    {
+      "path": "standalone_temporal_focus/src/vlm_distill/temporal_focus_resolver_v041g6.py",
+      "sha256": "a11443d63fc43ff862293a6d6e024f3e0fb5ee46fb2c15c8cac7e30b13b1f06a",
+      "size": 3957
+    },
+    {
+      "path": "standalone_temporal_focus/tests/__init__.py",
+      "sha256": "9eab63bf4335a03816c53d4ecfd401cfdb1a98a5af1d38e503254ca6a0e53d3b",
+      "size": 38
+    },
+    {
+      "path": "standalone_temporal_focus/tests/test_encoded_dual_decode.py",
+      "sha256": "a17703db402240f009323e6b54bba9c254710c187139efa37944aa37f07621e2",
+      "size": 387
+    },
+    {
+      "path": "standalone_temporal_focus/tests/test_standalone_functional.py",
+      "sha256": "8d0866eb4db626dd3945f403d95f827f0361e29c1bdbc948f429fd54848853af",
+      "size": 724
+    },
+    {
+      "path": "tests/test_candidate_lineage_integrity_v042b4.py",
+      "sha256": "0784fef9b611c5153c740cf651728dc59396dc78f634aefeabf4c86d889ba024",
+      "size": 640
+    },
+    {
+      "path": "tests/test_canonical_semantic_projection_v042b6.py",
+      "sha256": "93fd866421dde83536edeb98bd0330fc64bc2051168e7fee7cdb63e59308c561",
+      "size": 552
+    },
+    {
+      "path": "tests/test_dev_candidate_recall_v042b7.py",
+      "sha256": "8aae9c29c119463c3ddaa3cb2de207e69e17a05f742d6ebc1d261e44abad5ca8",
+      "size": 622
+    },
+    {
+      "path": "tests/test_h_ranking_readonly_v042b4.py",
+      "sha256": "65d660502f2a5c998abecc9c629c2c09229bf4cd798177044bb0839e1b74edb4",
+      "size": 306
+    },
+    {
+      "path": "tests/test_live_geometric_focus_metric_v042b6.py",
+      "sha256": "b033677f99224ce6b0a30bfa3fdf3d5913ebfa6cb98157ee1e58457e92e8e80a",
+      "size": 610
+    },
+    {
+      "path": "tests/test_live_omni_confidence_frontier_v042b5.py",
+      "sha256": "ecdab502ff30fe76cda37f58a70658ea919cad92fa1ae3a7aaacd850d9370cfd",
+      "size": 863
+    },
+    {
+      "path": "tests/test_pre_nms_diagnostic_v042b4.py",
+      "sha256": "2609645f525bba5fa9345230758c8723ee6b3b3351322b65abb42cea79e5c83c",
+      "size": 600
+    },
+    {
+      "path": "tests/test_release_manifest.py",
+      "sha256": "aa1a8d2d4cf72f10be2ef185699dd1509780ffa8185043849530c54737c8e5ac",
+      "size": 1492
+    },
+    {
+      "path": "tests/test_v042b4_standalone.py",
+      "sha256": "dc848a80f93f149bba788ca92bae35b11988b79a70aecd076b48cb6a2e5dd4e2",
+      "size": 474
+    },
+    {
+      "path": "tests/test_v042b5_standalone.py",
+      "sha256": "dc1dd72bee913ee52b1d9b1dbea5bb193511282e21ba9dfed08e745954df70b5",
+      "size": 454
+    },
+    {
+      "path": "tests/test_v042b6_standalone.py",
+      "sha256": "2bc06ad5d982d8807fa35ebc9806ad22cd93ebe3160ce0bdbd6192f64bec9f63",
+      "size": 452
+    },
+    {
+      "path": "tests/test_v042b7_standalone.py",
+      "sha256": "9fd0ba3f27eeaaf6f2472c80f18f5e1a092750f04b60424a2349771686616a09",
+      "size": 348
+    },
+    {
+      "path": "tests/test_v042b8_residual.py",
+      "sha256": "d9e08c534239445ebaa904105d5e0769c13d72e747e4c36e65ff90c8486969d9",
+      "size": 696
+    }
+  ],
+  "schema": "CONTENT_MANIFEST_V1"
+}

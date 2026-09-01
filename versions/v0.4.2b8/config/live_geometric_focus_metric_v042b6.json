@@ -1,0 +1,8 @@
+{
+  "metric_id": "LIVE_GEOMETRIC_FOCUS_METRIC_V1",
+  "iou_threshold": 0.75,
+  "bootstrap_excluded": true,
+  "join": "frame_id_dictionary",
+  "formal_metric_unchanged": "FORMAL_LOCKED_EXACT_ROUNDED_6_METRIC",
+  "status": ["PARALLEL_DIAGNOSTIC_METRIC", "NOT_A_RETROACTIVE_CHANGE_TO_FORMAL_SCORE", "NOT_HOLDOUT", "NOT_GENERALIZATION_EVIDENCE", "NOT_PRODUCTION_THRESHOLD_PROMOTION"]
+}

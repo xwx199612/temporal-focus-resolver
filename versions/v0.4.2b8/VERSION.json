@@ -1,0 +1,10 @@
+{
+  "baseline_version": "v0.4.2b7",
+  "development_profile": "dev_candidate_recall_020",
+  "diagnostic_scope": "DEV020_LIVE_RESIDUAL_RANK_RECOVERY",
+  "g6_manifest_sha256": "7e67fa63406892854f7c61e003ff49c666cc6bbeaf01f3457ca4bc3f3606c2e9",
+  "production_default_profile": "production_reference_025",
+  "release_manifest_contract": "CONTENT_MANIFEST_V1_RELEASE_SEAL_V1",
+  "repository_release": true,
+  "version": "0.4.2b8"
+}

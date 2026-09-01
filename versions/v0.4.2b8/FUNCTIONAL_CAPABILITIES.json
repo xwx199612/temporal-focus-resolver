@@ -1,0 +1,16 @@
+{
+  "actual_live_omni_cli": true,
+  "fixture_fallback_formal": false,
+  "provider_loaded_once": true,
+  "encoded_image_to_live_omni_to_temporal_focus": true,
+  "release_manifest_self_reference_free": true,
+  "production_scorer_changed": false,
+  "pre_nms_diagnostic_source_trace": true,
+  "historical_lineage_provenance_separation": true,
+  "confidence_frontier_characterization": true,
+  "formal_production_confidence_locked": 0.25,
+  "development_candidate_recall_profile_020": true,
+  "explicit_profile_required": true,
+  "canonical_semantic_projection": true,
+  "live_geometric_focus_metric_v1": true
+}

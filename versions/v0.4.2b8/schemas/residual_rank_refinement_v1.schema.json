@@ -1,0 +1,1 @@
+{"$schema":"https://json-schema.org/draft/2020-12/schema","type":"object","required":["formula_id","global_only","gt_free"],"properties":{"formula_id":{"type":"string"},"global_only":{"const":true},"gt_free":{"const":true}}}
